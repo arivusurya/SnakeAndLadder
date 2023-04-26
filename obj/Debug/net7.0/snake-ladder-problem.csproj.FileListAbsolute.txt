@@ -1,0 +1,15 @@
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/bin/Debug/net7.0/snake-ladder-problem
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/bin/Debug/net7.0/snake-ladder-problem.deps.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/bin/Debug/net7.0/snake-ladder-problem.runtimeconfig.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/bin/Debug/net7.0/snake-ladder-problem.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/bin/Debug/net7.0/snake-ladder-problem.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/snake-ladder-problem.csproj.AssemblyReference.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/snake-ladder-problem.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/snake-ladder-problem.AssemblyInfoInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/snake-ladder-problem.AssemblyInfo.cs
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/snake-ladder-problem.csproj.CoreCompileInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/snake-ladder-problem.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/refint/snake-ladder-problem.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/snake-ladder-problem.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/snake-ladder-problem.genruntimeconfig.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/snake-ladder-problem/obj/Debug/net7.0/ref/snake-ladder-problem.dll

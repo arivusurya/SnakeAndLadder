@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "snake-ladder-problem/1.0.0": {
+        "runtime": {
+          "snake-ladder-problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "snake-ladder-problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
