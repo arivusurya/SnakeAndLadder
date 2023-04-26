@@ -8,9 +8,10 @@ namespace SnakeAndLadder{
     public class Program{
         public static void Main(string[] args)
         {
-            Player player = new Player();
             Board board = new Board();
-            board.StartGame(player);
+            board.StartGame(board.player1,board.player2);
+            
+           
            
         }
     }

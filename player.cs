@@ -10,6 +10,7 @@ namespace SnakeAndLadder{
         
         public int position ;
         public int NoofDiceplayed;
+        public string name ;
 
         public Player(){
             position = 0;

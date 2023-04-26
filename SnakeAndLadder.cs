@@ -8,18 +8,37 @@ namespace SnakeAndLadder{
 
     public class Board{
         
+        public Player player1;
+        public Player player2;
+        public Board(){
+            player1 = new Player();
+            player1.name ="Player1";
+            player2 = new Player();
+            player2.name="Player2";
+        }
 
-        public void StartGame(Player player){
-            while (player.position <100){
-                Console.WriteLine("No of Dice played : "+ player.NoofDiceplayed);
-                Console.WriteLine("Player Position  : "+ player.position);
+        public void StartGame(Player player1 , Player player2){
+            while (player1.position <100 && player2.position< 100){
+                Console.WriteLine("No of Dice played : "+ player1.NoofDiceplayed);
+                Console.WriteLine($"{player1.name} Position  : "+ player1.position);
+                Console.WriteLine("No of Dice played : "+ player2.NoofDiceplayed);
+                Console.WriteLine($"{player2.name} Position  : "+ player2.position);
                 
-                Play(player);
+                Play(player1);
+                Play(player2);
+
+                if(player1.position == 100){
+                    Console.WriteLine($"{player1.name} win the Game");
+                    break;
+                }else if(player2.position == 100){
+                    Console.WriteLine($"{player2.name} win the Game");
+                    break;
+                }else{
+                    continue;
+                }
                 
             }
-            Console.WriteLine("Player Win the game");
-            Console.WriteLine("Player Position: " + player.position);
-            player.position =0;
+          
         }
 
 
