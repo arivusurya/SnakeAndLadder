@@ -9,7 +9,8 @@ namespace SnakeAndLadder{
         public static void Main(string[] args)
         {
             Player player = new Player();
-            Console.WriteLine(player.RoolDice());
+            Board board = new Board();
+            board.StartGame(player);
            
         }
     }
